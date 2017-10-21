@@ -1,0 +1,23 @@
+{
+  "name": "aws-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha ./tests/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkalex/aws-lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkalex/aws-lambda/issues"
+  },
+  "homepage": "https://github.com/hkalex/aws-lambda#readme"
+}
